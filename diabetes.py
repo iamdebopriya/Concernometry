@@ -33,7 +33,7 @@ def main():
             }
             </style>
         """, unsafe_allow_html=True)
-    st.title("Concernometry:-Be Concern About Your Diabetes")
+    st.title("Concernometry:-Show Concern About Your Diabetes")
     st.write("""
         ## About this App
         Welcome to the Innovative Female Diabetes Predictor! This application helps you assess the likelihood of having diabetes based on various health parameters specifically for women.
